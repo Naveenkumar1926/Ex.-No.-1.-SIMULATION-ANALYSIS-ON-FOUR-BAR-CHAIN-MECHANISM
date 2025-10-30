@@ -54,10 +54,8 @@
 
 ## Output:
 
-<img width="1600" height="950" alt="501804393-d6914047-dd86-4936-8f74-8f45b21a152c" src="https://github.com/user-attachments/assets/3f3a8e0b-d016-4267-95d5-a9c7641d40da" />
+![output ](https://github.com/user-attachments/assets/15d508cc-a4f9-4ef3-a6f8-cd62483ffbcf)
 
-
-<img width="1600" height="947" alt="501804423-f58596a1-480c-42a6-a955-06917a4319a0" src="https://github.com/user-attachments/assets/f9aa5704-9041-4628-9be1-4e488bdeafcf" />
 
 
 ### Name: Naveen Kumar S
